@@ -1,0 +1,19 @@
+{
+  "name": "burnrate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikechau/burnrate.git"
+  },
+  "author": "@mikechau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikechau/burnrate/issues"
+  },
+  "homepage": "https://github.com/mikechau/burnrate#readme"
+}
